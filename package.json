@@ -1,0 +1,25 @@
+{
+  "name": "noteTaker",
+  "version": "1.0.0",
+  "description": "# 11 Express.js: Note Taker",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/samuel6roth/noteTaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/samuel6roth/noteTaker/issues"
+  },
+  "homepage": "https://github.com/samuel6roth/noteTaker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^8.3.2"
+  }
+}
