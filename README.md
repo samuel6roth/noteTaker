@@ -18,8 +18,6 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 In the terminal command line:
 * Command “npm init -y”
 * Command “npm install”
-* Command “npm express"
-* Command “npm uuid”
 * Command “node ./server.js”
 * Open browser to "http://localhost:8080/”
 ## License
